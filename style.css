@@ -8,11 +8,10 @@
 }
 
 #navbar a{
-    list-style-type: none;
+    text-decoration: none;
     font-family: "Bricolage Grotesque", sans-serif;
     font-weight: 700;
     font-size: 15px;
-    text-decoration: none;
     color: black;
 }
 #navbar>a:hover{
